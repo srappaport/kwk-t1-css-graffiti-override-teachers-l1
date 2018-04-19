@@ -1,5 +1,3 @@
-
-
 # CSS Graffiti Override
 
 In this lab, you are asked to clean the graffiti tags off the wall by making use of in browser developer tools and writing selectors that are more specific (have greater authority) in order to override the existing styles.
@@ -51,6 +49,4 @@ Work your way through all seven graffiti pictures until the wall is fully clean.
  * [CSS Tricks - CSS Specificity](http://css-tricks.com/specifics-on-css-specificity/)
  * [Code School - DiscoverDevTools](http://discover-devtools.codeschool.com/)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/css-graffiti-override' title='CSS Graffiti Override'>CSS Graffiti Override</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/css-graffiti-override'>CSS Graffiti Override</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-T1 CSS Graffiti Override</p>
